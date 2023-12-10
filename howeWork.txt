@@ -1,0 +1,5 @@
+Howework: 1
+## write a fuction that will take 3 numbers will return the max numbers
+## Write a fuction that will take 3 parameters and will return the min numbers
+## first time do it using if-else
+## second time do it using Math.min and Math.max 
